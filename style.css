@@ -50,3 +50,35 @@
     color: white;
     margin-top: 10px;
 }
+.nav{
+    background-color: black;
+    height: 50px;
+    
+}
+.mnu1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin:0px;
+    color:white;
+    
+    margin-left:0px;
+    
+    
+}
+    a{
+        
+        text-underline-position: none;
+        color:white;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+.mnu{
+    list-style: none;
+    padding: 10px;
+    margin-top: 5px;
+    padding:10px;
+    margin: 5px 20px 0px 20px  ;
+    
+    
+}
+
